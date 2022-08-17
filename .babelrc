@@ -1,0 +1,6 @@
+{
+    "presets": ["@babel/preset-env"]
+}
+
+/* node_modules\.bin\babel .\src\features.js -o .\public\bundle.js -w */
+
