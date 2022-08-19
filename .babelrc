@@ -1,6 +1,5 @@
 {
-    "presets": ["@babel/preset-env"]
+  "presets": ["@babel/preset-env"]
 }
 
-/* node_modules\.bin\babel .\src\features.js -o .\public\bundle.js -w */
-
+/* node_modules\.bin\babel .\src\classes.js -o .\public\classes.js -w */
