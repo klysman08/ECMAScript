@@ -106,7 +106,7 @@ class Moto extends Veiculo {
   }
 }
 
-const bross = new Moto(2, true);
+const bross = new Moto(1, true);
 
 bross.empinar();
 bross.acelerar();

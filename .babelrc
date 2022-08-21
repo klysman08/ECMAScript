@@ -3,3 +3,5 @@
 }
 
 /* node_modules\.bin\babel .\src\classes.js -o .\public\classes.js -w */
+
+/* npm install webpack webpack-cli webpack-dev-server @babel/polyfill --save-dev */
